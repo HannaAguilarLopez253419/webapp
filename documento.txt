@@ -1,0 +1,15 @@
+nombre de usuario: HannaAguilarLopez253419
+correo de usuario: 253419@it2id.upchiapas.edu.mx
+
+echo "# webapp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HannaAguilarLopez253419/webapp.git
+git push -u origin main
+
+
+git remote add origin https://github.com/HannaAguilarLopez253419/webapp.git
+git branch -M main
+git push -u origin main
